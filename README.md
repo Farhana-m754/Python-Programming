@@ -23,4 +23,4 @@ Other Python practice exercises
 The main objective of this assignment is to develop a strong foundation in Python programming and improve logical thinking and problem-solving skills.
 👩‍💻 Author
 Farhana M.
-Data Analytics | Python | SQL | Power BI
+Data Analyst | Python | SQL | Power BI
